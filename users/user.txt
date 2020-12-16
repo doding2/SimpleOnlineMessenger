@@ -1,0 +1,7 @@
+{"id":"dragon0414","nickname":"유승준","password":"4567","address":"dragon0414@naver.com","birth":"000414","condi":"no"}
+{"id":"user1","nickname":"유저1","password":"4567","address":"user2@naver.com","birth":"000124","condi":"no"}
+{"id":"user2","nickname":"유저2","password":"4567","address":"user2@naver.com","birth":"000212","condi":"no"}
+{"id":"user3","nickname":"유저3","password":"4567","address":"user3@naver.com","birth":"000313","condi":"no"}
+{"id":"user4","nickname":"유저4","password":"4567","address":"user4@naver.com","birth":"000414","condi":"no"}
+{"id":"user5","nickname":"유저5","password":"4567","address":"user5@naver.com","birth":"000515","condi":"no"}
+{"id":"user6","nickname":"유저6","password":"4567","address":"user6@naver.com","birth":"000616","condi":"no"}
