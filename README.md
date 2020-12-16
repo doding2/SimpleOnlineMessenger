@@ -1,2 +1,4 @@
 # SimpleOnlineMessenger
-Simple Online Messenger using java swing and java socket
+Simple Online Messenger
+
+Implement Video Youtube Link: https://youtu.be/rzEoaHtgchE
